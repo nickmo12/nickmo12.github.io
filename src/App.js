@@ -2,6 +2,7 @@ import logo from './Nick.PNG';
 import './App.css';
 import Home from './components/Home'
 import Projects from './components/Projects'
+import AboutMe from './components/AboutMe'
 
 import {
   BrowserRouter as Router,
@@ -57,9 +58,9 @@ export default function App() {
 //   return <h2>Home</h2>;
 // }
 
-function AboutMe() {
-  return <h2>About Me</h2>;
-}
+// function AboutMe() {
+//   return <h2>About Me</h2>;
+// }
 
 // function Projects() {
 //   return <h2>Projects</h2>;

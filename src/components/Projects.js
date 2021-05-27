@@ -9,7 +9,7 @@ const Projects = () => {
                 href="https://github.com/nickmo12"
                 target="_blank"
                 rel="noopener noreferrer"
-                >Check out some of my projects on Github!
+                >Check out my Github!
                 </a>
         </div>
 
