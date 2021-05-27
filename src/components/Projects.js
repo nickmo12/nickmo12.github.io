@@ -4,6 +4,7 @@ import React from 'react';
 const Projects = () => {
     return(
         <div>
+            <h1>Projects</h1>
             <a
                 className="App-link"
                 href="https://github.com/nickmo12"
