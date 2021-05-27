@@ -1,6 +1,8 @@
 import logo from './Nick.PNG';
 import './App.css';
-//import Home from './components/Home'
+import Home from './components/Home'
+import Projects from './components/Projects'
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -51,17 +53,17 @@ export default function App() {
   );
 }
 
-function Home() {
-  return <h2>Home</h2>;
-}
+// function Home() {
+//   return <h2>Home</h2>;
+// }
 
 function AboutMe() {
   return <h2>About Me</h2>;
 }
 
-function Projects() {
-  return <h2>Projects</h2>;
-}
+// function Projects() {
+//   return <h2>Projects</h2>;
+// }
 
 function ContactMe() {
   return <h2>Contact Me</h2>
